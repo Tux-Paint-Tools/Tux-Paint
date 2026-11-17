@@ -45,7 +45,7 @@ The [extension guide](https://tuxpaint.org/docs/en/html/EXTENDING.html) document
 Colorable stamps use the image's transparency to define a solid shape in the selected color.
 Restart Tux Paint after changing custom content so it can discover the new files.
 
-![A child-created garden combining freehand paths with carefully placed animal stamps](FOTO)
+![A child-created garden combining freehand paths with carefully placed animal stamps]([FOTO](https://www.gnu.org/education/misc/tuxpaint-stamps.jpg))
 
 ## Adjust the session to the room and input device
 
